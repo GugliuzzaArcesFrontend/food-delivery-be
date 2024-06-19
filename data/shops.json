@@ -1,121 +1,123 @@
-[
-  {
-    "id": 1,
-    "denominazione": "Ganci e Figli",
-    "indirizzo": "Via Roma, 1",
-    "citta": "Palermo"
-  },
-  {
-    "id": 2,
-    "denominazione": "Pizzeria Da Michele",
-    "indirizzo": "Via Vittorio Emanuele, 26, Palermo",
-    "citta": "Palermo"
-  },
-  {
-    "id": 3,
-    "denominazione": "Trattoria Nonna Maria",
-    "indirizzo": "Via Libertà, 78, Palermo",
-    "citta": "Palermo"
-  },
-  {
-    "id": 4,
-    "denominazione": "Burger King",
-    "indirizzo": "Via Maqueda, 56, Palermo",
-    "citta": "Palermo"
-  },
-  {
-    "id": 5,
-    "denominazione": "Ristorante Il Gabbiano",
-    "indirizzo": "Lungomare Cristoforo Colombo, 12, Palermo",
-    "citta": "Palermo"
-  },
-  {
-    "id": 6,
-    "denominazione": "KFC Palermo",
-    "indirizzo": "Via Notarbartolo, 34, Palermo",
-    "citta": "Palermo"
-  },
-  {
-    "id": 7,
-    "denominazione": "Ristorante La Brace 2",
-    "indirizzo": "Via Roma, 32",
-    "citta": "Carini"
-  },
-  {
-    "id": 8,
-    "denominazione": "Ristorante La Brace 3",
-    "indirizzo": "Via Roma, 12",
-    "citta": "Capaci"
-  },
-  {
-    "id": 9,
-    "denominazione": "Ristorante Da Peppino",
-    "indirizzo": "Mondello",
-    "citta": "Palermo"
-  },
-  {
-    "id": 10,
-    "denominazione": "Fud",
-    "indirizzo": "Via Bara Olivella",
-    "citta": "Palermo"
-  },
-  {
-    "id": 11,
-    "denominazione": "Fud 2",
-    "indirizzo": "Via Roma, 34",
-    "citta": "Palermo"
-  },
-  {
-    "id": 12,
-    "denominazione": "Fud 3",
-    "indirizzo": "Via Bara Olivella",
-    "citta": "Palermo"
-  },
-  {
-    "id": 13,
-    "denominazione": "Fud 4",
-    "indirizzo": "Via Roma, 34",
-    "citta": "Palermo"
-  },
-  {
-    "id": 14,
-    "denominazione": "Ristorante La Brace",
-    "indirizzo": "Via Roma, 123, Palermo",
-    "citta": "Palermo"
-  },
-  {
-    "id": 15,
-    "denominazione": "Ristorante La Brace",
-    "indirizzo": "Via Amari, 1 Palermo",
-    "citta": "Palermo"
-  },
-  {
-    "id": 16,
-    "denominazione": "Gertrude",
-    "indirizzo": "Via Euripide",
-    "citta": "Catania"
-  },
-  {
-    "id": 17,
-    "denominazione": "Prova",
-    "indirizzo": "via Prova",
-    "citta": "Genova"
-  },
-  {
-    "id": 18,
-    "denominazione": "La Cassatella",
-    "indirizzo": "via Regione Siciliana, 2321",
-    "citta": "Palermo"
-  },
-  {
-    "denominazione": "Negozio di prova",
-    "indirizzo": "Via Lazio, 32",
-    "id": 19
-  },
-  {
-    "denominazione": "Archestrato di Gela",
-    "indirizzo": "Via Notarbarolo",
-    "citta": "Palermo",
-    "id": 20
-  }
-]
+{
+  "shops": [
+    {
+      "id": 1,
+      "denominazione": "Ganci e Figli",
+      "indirizzo": "Via Roma, 1",
+      "citta": "Palermo"
+    },
+    {
+      "id": 2,
+      "denominazione": "Pizzeria Da Michele",
+      "indirizzo": "Via Vittorio Emanuele, 26, Palermo",
+      "citta": "Palermo"
+    },
+    {
+      "id": 3,
+      "denominazione": "Trattoria Nonna Maria",
+      "indirizzo": "Via Libertà, 78, Palermo",
+      "citta": "Palermo"
+    },
+    {
+      "id": 4,
+      "denominazione": "Burger King",
+      "indirizzo": "Via Maqueda, 56, Palermo",
+      "citta": "Palermo"
+    },
+    {
+      "id": 5,
+      "denominazione": "Ristorante Il Gabbiano",
+      "indirizzo": "Lungomare Cristoforo Colombo, 12, Palermo",
+      "citta": "Palermo"
+    },
+    {
+      "id": 6,
+      "denominazione": "KFC Palermo",
+      "indirizzo": "Via Notarbartolo, 34, Palermo",
+      "citta": "Palermo"
+    },
+    {
+      "id": 7,
+      "denominazione": "Ristorante La Brace 2",
+      "indirizzo": "Via Roma, 32",
+      "citta": "Carini"
+    },
+    {
+      "id": 8,
+      "denominazione": "Ristorante La Brace 3",
+      "indirizzo": "Via Roma, 12",
+      "citta": "Capaci"
+    },
+    {
+      "id": 9,
+      "denominazione": "Ristorante Da Peppino",
+      "indirizzo": "Mondello",
+      "citta": "Palermo"
+    },
+    {
+      "id": 10,
+      "denominazione": "Fud",
+      "indirizzo": "Via Bara Olivella",
+      "citta": "Palermo"
+    },
+    {
+      "id": 11,
+      "denominazione": "Fud 2",
+      "indirizzo": "Via Roma, 34",
+      "citta": "Palermo"
+    },
+    {
+      "id": 12,
+      "denominazione": "Fud 3",
+      "indirizzo": "Via Bara Olivella",
+      "citta": "Palermo"
+    },
+    {
+      "id": 13,
+      "denominazione": "Fud 4",
+      "indirizzo": "Via Roma, 34",
+      "citta": "Palermo"
+    },
+    {
+      "id": 14,
+      "denominazione": "Ristorante La Brace",
+      "indirizzo": "Via Roma, 123, Palermo",
+      "citta": "Palermo"
+    },
+    {
+      "id": 15,
+      "denominazione": "Ristorante La Brace",
+      "indirizzo": "Via Amari, 1 Palermo",
+      "citta": "Palermo"
+    },
+    {
+      "id": 16,
+      "denominazione": "Gertrude",
+      "indirizzo": "Via Euripide",
+      "citta": "Catania"
+    },
+    {
+      "id": 17,
+      "denominazione": "Prova",
+      "indirizzo": "via Prova",
+      "citta": "Genova"
+    },
+    {
+      "id": 18,
+      "denominazione": "La Cassatella",
+      "indirizzo": "via Regione Siciliana, 2321",
+      "citta": "Palermo"
+    },
+    {
+      "denominazione": "Negozio di prova",
+      "indirizzo": "Via Lazio, 32",
+      "id": 19
+    },
+    {
+      "denominazione": "Archestrato di Gela",
+      "indirizzo": "Via Notarbarolo",
+      "citta": "Palermo",
+      "id": 20
+    }
+  ]
+}
